@@ -1,0 +1,6 @@
+framework module CommonKit2 {
+  umbrella header "CommonKit2.h"
+
+  export *
+  module * { export * }
+}
